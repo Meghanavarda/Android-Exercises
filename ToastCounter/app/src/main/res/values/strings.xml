@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToastCounter</string>
+    <string name="text_for_toast_button"> Toast </string>
+    <string name="text_for_count_button"> Count </string>
+    <string name="text_for_reset_button"> Reset </string>
+    <string name="text_for_display_button"> 0 </string>
+</resources>
